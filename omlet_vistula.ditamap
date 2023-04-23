@@ -2,4 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>omlet vistula</title>
+    <topicref href="Omlet.dita">
+        <topicref href="sk_adniki.dita"/>
+        <topicref href="stages.dita"/>
+    </topicref>
 </map>

@@ -2,6 +2,18 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="sk_adniki">
     <title>składniki</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc>Składniki na 1 duży omlet:</shortdesc>
+    <refbody>
+        <ul id="ul_nq4_wcv_fxb">
+            <li>Jajka - 2 szt.</li>
+            <li>Mąka żytnia - 1 łyżka</li>
+            <li>Odzywka białkowa, np. czekoladowa - 20 g</li>
+            <li>Mleko - 1 łyżka</li>
+            <li>Proszek do pieczenia - 1/3 łyżeczki</li>
+            <li>Olej kokosowy - 1 łyżeczka</li>
+            <li>Jogurt naturalny - 2 łyżki</li>
+            <li>Dowolne owoce</li>
+            <li>Ziarna słonecznika / pestki dyni łyżka</li>
+        </ul>
+    </refbody>
 </reference>

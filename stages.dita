@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="stages">
+    <title>Stages</title>
+    <shortdesc>W tych pięciu krokach przygotujesz pyszny omlet.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Jest to prosty przepis na pyszny omlet.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Żółtka oddziel od białek</cmd>
+            </step>
+            <step>
+                <cmd>Wymieszaj mąkę, odżywkę, mleko, żółtka, proszek do pieczenia</cmd>
+            </step>
+            <step>
+                <cmd>Białka ubije na sztywną pianę. Delikaktnie wymieszaj z masą.</cmd>
+            </step>
+            <step>
+                <cmd> Na patelni rozgrzej olej kokosowy. Wylej masę, przykryj pokrywką i smaż po ok.
+                    2 minuty z każdej strony. </cmd>
+            </step>
+            <step>
+                <cmd>Podawaj z ulubionymi dodatkami, np. jogurtem naturalnym, owocami i ziarenkami
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
